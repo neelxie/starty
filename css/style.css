@@ -1278,6 +1278,9 @@
   width: 100%;
 }
 
+.gal-width{
+  width: 250px;
+}
 .ptopp{
   padding-top: 3rem;
 }
