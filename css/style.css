@@ -1275,6 +1275,24 @@
   
 }
 
+.ptopp{
+  padding-top: 3rem;
+}
+
+.pixa{
+  height: auto;
+  width: 100%;
+}
+.pixa:hover{
+  -webkit-filter: grayscale(100%);
+  /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  -webkit-transition: all 2s;
+  -moz-transition: all 2s;
+  -ms-transition: all 2s;
+  -o-transition: all 2s;
+  transition: all 2s;
+}
 .bodara{
   border-radius: 10px;
 }
